@@ -1,1 +1,2 @@
 # simpledjango
+Django introduction
